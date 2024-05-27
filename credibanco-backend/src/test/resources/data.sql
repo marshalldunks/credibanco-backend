@@ -1,0 +1,1 @@
+INSERT INTO cards (id_card, nombre_titular, fecha_creacion, saldo, activa)  VALUES(12122784830004, 'jhon doe', CURRENT_TIMESTAMP(), 100000, 1);
